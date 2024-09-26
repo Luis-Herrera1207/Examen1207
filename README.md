@@ -1,7 +1,14 @@
 # Examen1207
 - CODIGO
-- ![image](https://github.com/user-attachments/assets/bb15eb9c-71c8-492c-9ce5-42f6afec3eeb)
-- ![image](https://github.com/user-attachments/assets/da85755e-52df-428c-840d-14104aa828e2)
-- ![image](https://github.com/user-attachments/assets/fe5328f9-be6f-4a9f-aa13-6c232b27828e)
+
+  
+![image](https://github.com/user-attachments/assets/5ba13a54-7e0a-4c5e-8a37-6796f910d641)
+![image](https://github.com/user-attachments/assets/63c8f9d9-e093-4c22-98b1-97486776762c)
+![image](https://github.com/user-attachments/assets/c5b6fe6e-14e8-4977-80cb-ed01368feabb)
+
+
 - RESULTADO
-- ![image](https://github.com/user-attachments/assets/1fe6a2b0-5cd9-425f-aa53-7a2310769ab4)
+
+  
+![image](https://github.com/user-attachments/assets/1ae2f0fc-f2c2-4bc2-af61-6acae26cba01)
+
