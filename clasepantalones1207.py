@@ -84,13 +84,13 @@ pantalon.tela = "Algodon"
 pantalon.mostrar_datos1207()
 
 # Llamada funciones
-print("\nLista de alumnos:")
+print("\nLista de pantalones:")
 print(pantalon.Lista_pantalones1207())
 
-print("\nTupla de profesores:")
+print("\nTupla de pantalones:")
 print(pantalon.Tupla_pantalon1207())
 
-print("\nDiccionario de materias y calificaciones:")
+print("\nDiccionario de pantalones:")
 print(pantalon.Dicionario_pantalon1207())
 
 # alta y baja
